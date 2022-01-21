@@ -1,0 +1,81 @@
+body {
+    position: relative;
+    background: #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  nav {
+      border-bottom: 2px solid orange;
+  }
+
+  ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    position: relative;
+    left: 22%;
+}
+
+.middle {
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid orange;
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.list-title {
+    font-weight: 800;
+    text-decoration: underline;
+    list-style-type: none;
+    color: black;
+}
+
+li {
+    color: #383838;
+    margin: 10px auto;
+}
+
+.career-goals {
+    border: 2px solid crimson;
+    margin-top: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 20px 0 20px;
+}
+
+p {
+    color: #383838;
+    text-indent: 2em;
+    padding: 20px;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
