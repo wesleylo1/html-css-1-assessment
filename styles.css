@@ -29,9 +29,9 @@ a:visited {
 }
 
 
-input {
-	/* display: block; */
-}
+/* input {
+	 display: block; 
+} */
 
 img {
 	max-width: 300px;
@@ -41,3 +41,4 @@ img {
 	list-style-type: none;
 	font-weight:600;
 }
+
