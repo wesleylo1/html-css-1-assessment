@@ -4,7 +4,7 @@ body {
     margin: 1rem;
     padding: 1rem;
     max-width: 500px;
-    margin: 2rem auto;
+    margin: 1rem auto;
     font-family: "Open Sans", sans-serif;
   }
   
@@ -84,6 +84,16 @@ footer {
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
+}
+
+.buttons {
+    background-color: orange; /* can't let myself do yellow */
+    border: none;
+    width: 10em;
+    height: 2em;
+    padding: 5px;
+    color: #383838;
+    border-radius: 16px;
 }
 
 .back {
