@@ -30,9 +30,14 @@ a:visited {
 
 
 input {
-	display: block;
+	/* display: block; */
 }
 
 img {
 	max-width: 300px;
+}
+
+.list-title {
+	list-style-type: none;
+	font-weight:600;
 }
